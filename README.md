@@ -1,6 +1,6 @@
 ## Marcus Bacelar
 
-**Desenvolvedor Full Stack**
+**Desenvolvedor em Andamento **
 
 ### Sobre mim
 Sou apaixonado por programação e estou sempre buscando novas tecnologias para aprender. Atualmente, estou focado em desenvolver minhas habilidades em ...
