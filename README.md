@@ -9,7 +9,7 @@ Sou apaixonado por programação e estou sempre buscando novas tecnologias para 
 * **[Logica de equação]** - [Somar, subitrair, uma calculadora funcional]
   * Tecnologias: [python]
   
-* **[Loja Vitual]** - [Uma loja semi-comleta para vendas online]
+* **[Loja Vitual]** - [Uma loja semi-completa para vendas online]
   * Tecnologia:[html,css]
 
 ### Habilidades
