@@ -10,7 +10,7 @@ Sou apaixonado por programação e estou sempre buscando novas tecnologias para 
   * Tecnologias: [python]
   
 * **[Loja Vitual]** - [Uma loja semi-completa para vendas online]
-  * Tecnologia:[html,css]
+  * Tecnologia:[html,css, javaScript]
 
 ### Habilidades básicas 
 * **Linguagens:**Python, JavaScript, HTML, CSS
