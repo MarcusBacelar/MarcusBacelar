@@ -88,7 +88,7 @@ Me chamo Marcus Vinicius Rodrigues Bacelar, tenho 18 anos. Minha paixão por tec
 <img
     align="left"  
     alt="GitHub Stats"
-    width="500px" 
+    width="400px" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=MarcusBacelar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 <br/>
