@@ -84,16 +84,13 @@ Me chamo Marcus Vinicius Rodrigues Bacelar, tenho 18 anos. Minha paixão por tec
 ### 📊 Estatísticas
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcusBacelar&show_icons=true&count_private=true&hide_border=true&title_color=3498db&icon_color=3498db&text_color=c9d1d9&bg_color=0d1117" alt="Marcus Bacelar github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusBacelar&layout=compact&hide_border=true&title_color=3498db&text_color=3498db&bg_color=0d1117" />
+</div>
 
-<img
-    align="left"  
-    alt="GitHub Stats"
-    width="400px" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=MarcusBacelar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-<img
-    align="left"  
-    alt="GitHub Stats"
-    width="259px" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusBacelar&size_weight=0.5&count_weight=0.5&theme=tokyonight&custom_title=Tecnologias&langs_count=9"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcusbacelar&bg_color=0d1117&color=3498db&line=3498db&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcusbacelar&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
