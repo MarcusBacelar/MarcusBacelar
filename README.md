@@ -60,13 +60,6 @@ My name is Marcus Vinicius Rodrigues Bacelar, I am 18 years old. My passion for 
     style="padding-right: 10px;"
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
 
-<img
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000"/>
 
 <img
     align="left" 
