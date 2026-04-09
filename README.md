@@ -2,7 +2,7 @@
 
 **`University student, UniCEUB - Unified Teaching Center of Brasília `**
 
-My name is Marcus Vinicius Rodrigues Bacelar, I am 18 years old. My passion for technology has motivated me since 2020, when I started exploring the world of codes behind games, trying to understand how each line of code contributed to the final experience. Currently, I am studying Computer Science at UniCEUB, where I deepen my knowledge in various areas. I am always looking for new challenges and opportunities to learn and grow in the field of technology. I believe that technology has the power to transform the world, and I want to be part of that transformation.
+My name is Marcus Vinicius Rodrigues Bacelar, I am 19 years old. My passion for technology has motivated me since 2020, when I started exploring the world of codes behind games, trying to understand how each line of code contributed to the final experience. Currently, I am studying Computer Science at UniCEUB, where I deepen my knowledge in various areas. I am always looking for new challenges and opportunities to learn and grow in the field of technology. I believe that technology has the power to transform the world, and I want to be part of that transformation.
 
 
 ---
