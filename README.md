@@ -80,6 +80,4 @@ My name is Marcus Vinicius Rodrigues Bacelar, I am 19 years old. My passion for 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusBacelar&layout=compact&hide_border=true&title_color=3498db&text_color=3498db&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcusbacelar&bg_color=0d1117&color=3498db&line=3498db&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
